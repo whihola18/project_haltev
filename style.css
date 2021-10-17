@@ -23,6 +23,7 @@ section.satu {
 .satu .column-1a h1 {
   font-weight: bold;
   text-transform: uppercase;
+  color: aquamarine;
 }
 
 .satu .column-1a button.button-satu {
